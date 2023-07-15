@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- *main - Entry point 
- * 
- *output
- *
- *Return: Always 0 (Success)
+ * main - Entry point
+ * output
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
